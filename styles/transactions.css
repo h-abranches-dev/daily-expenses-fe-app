@@ -1,0 +1,26 @@
+body {
+    padding-right: 200px;
+}
+
+#etd {
+    display: none;
+    width: 500px;
+    height: 300px;
+    background-color: rgb(194, 158, 82);
+    position: absolute;
+    left: 50%;
+    z-index:100;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    transform: translate(-50%, -50%);
+}
+
+div>form{
+    width: 100%;
+    height: 100%;
+}
+
+#etd_i_t {
+    width: 100%;
+}

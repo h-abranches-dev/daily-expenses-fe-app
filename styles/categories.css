@@ -1,0 +1,12 @@
+div.categories {
+    margin: 20px;
+}
+
+div.categories>div, td.categories>div {
+    display: inline;
+    margin: 8px;
+    border-style: solid;
+    padding: 10px;
+    background-color: pink;
+    font-weight: bold;
+}
